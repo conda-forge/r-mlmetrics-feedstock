@@ -7,7 +7,6 @@ package:
   version: {{ version|replace("-", "_") }}
 
 source:
-  fn: MLmetrics_{{ version }}.tar.gz
   url:
     - {{ cran_mirror }}/src/contrib/MLmetrics_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/MLmetrics/MLmetrics_{{ version }}.tar.gz
@@ -38,7 +37,7 @@ test:
 
 about:
   home: http://github.com/yanyachen/MLmetrics
-  license: GPL-2
+  license: GPL-2.0-only
   summary: A collection of evaluation metrics, including loss, score and utility functions, that
     measure regression, classification and ranking performance.
   license_family: GPL2
