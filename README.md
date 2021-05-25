@@ -3,7 +3,7 @@ About r-mlmetrics
 
 Home: http://github.com/yanyachen/MLmetrics
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlmetrics-feedstock/blob/master/LICENSE.txt)
 
