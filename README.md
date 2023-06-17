@@ -1,11 +1,11 @@
-About r-mlmetrics
-=================
+About r-mlmetrics-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlmetrics-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/yanyachen/MLmetrics
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlmetrics-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of evaluation metrics, including loss, score and utility functions, that measure regression, classification and ranking performance.
 
